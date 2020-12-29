@@ -1,3 +1,1 @@
-# CypElf's GitHub profile
-
-Hey, are you lost? You're currently on my GitHub profile. You can take a look at my repositories if you want to, even if I don't really have any interesting public repository for now.
+You're currently on my GitHub profile. I don't know how you ended up here, but feel free to explore my repositories. Even if you won't find anything useful for the moment publicly.
