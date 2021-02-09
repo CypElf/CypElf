@@ -1,1 +1,3 @@
-You're currently on my GitHub profile. I don't know how you ended up here, but feel free to explore my repositories. Even if you won't find anything useful for the moment publicly.
+# CypElf
+
+Passionate about computer science, student in first year of DUT computer science.
