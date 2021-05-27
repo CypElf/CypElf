@@ -1,3 +1,1 @@
-# CypElf
-
-Passionate about computer science, student in first year of DUT computer science.
+French student in computer science and cybersecurity enthusiast.
